@@ -15,7 +15,5 @@ This is the official code of SLG-YOLO.
 ``python train.py --dataset /path/to/dataset.yaml --epochs 300 --batch 16 --imgsz 640 ``
 ### Test SLG-YOLO
 ``python test.py --image /path/to/image.jpg --save_path /path/to/save/results --model_weights /path/to/your/model/weights/best.pt ``
-## Concat
-For any question, feel free to email [619085557@qq.com](mailto:619085557@qq.com) (B. Hu).
 ## Ackowlegements
 We would like to thank the developers of [YOLO](https://github.com/ultralytics/ultralytics) for their open-source contributions, which greatly supported the development of our work.
