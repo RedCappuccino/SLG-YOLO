@@ -1,0 +1,9 @@
+path: ./datasets/NEU-DET
+
+train: train.txt
+val: val.txt
+test: test.txt
+
+nc: 6
+# classes
+names: ["crazing","inclusion","patches","pitted_surface","rolled-in_scale","scratches"]
